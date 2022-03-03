@@ -168,6 +168,15 @@
         "hungry"
       ],
       "id": "18"
+    },
+    {
+      "name": "Cheese",
+      "species": "Ape",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "19"
     }
   ]
 }
